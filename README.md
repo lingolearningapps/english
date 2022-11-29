@@ -1,2 +1,2 @@
-# english
-LinGo: English for Beginners
+# LinGo: Learn Japanese Alphabet
+
