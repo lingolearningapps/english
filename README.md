@@ -1,3 +1,3 @@
 # LinGo: Learn Japanese Alphabet
 
-<a href="https://lingolearningapps.github.io/english/"> Website Link </a>
+<a href="https://lingolearningapps.github.io/english/" target="_blank"> Website Link </a>
